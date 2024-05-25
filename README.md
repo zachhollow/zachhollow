@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile! 
 
-- 🔭 I’m currently working on a landing page for a lawyer and my first full-stack web app using RSS feeds and OpenAI API
+- 🔭 I’m currently working on a landing web page for a lawyer and my first full-stack web app using RSS feeds and OpenAI API
 - 🌱 I’m learning ASP.Net Core
 - 🤝 I’m looking to collaborate on full-stack projects! My experience is mostly back-end
 - 📫 How to reach me: zholloway10@outlook.com
