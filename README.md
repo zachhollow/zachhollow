@@ -16,7 +16,7 @@ Results-driven data professional with 2 years of experience in statistical analy
 
 ### Work Experience
 
-##### **Purple Strategies LLC**, Chicago, IL
+#### **Purple Strategies LLC**, Chicago, IL
 **Research Analyst, Insights**   
 _June 2022 – Present_
 - Conducted quantitative and qualitative research from start-to-finish, including questionnaire writing, research design, vendor management, and end-to-end analyses.
