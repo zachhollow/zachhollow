@@ -14,7 +14,7 @@ Thank you for visiting my GitHub profile!
 
 Results-driven data professional with 2 years of experience in statistical analysis, behavioral science, and market research. Adept at leveraging research frameworks, advanced data science, and machine learning tools and methods to deliver actionable insights. 
 
-#### Work Experience
+### Work Experience
 
 ##### **Purple Strategies LLC**, Chicago, IL
 **Research Analyst, Insights**   
@@ -26,13 +26,13 @@ _June 2022 – Present_
 - Applied geolocation methods and clustering algorithms to geographical data of retail consumers and policymakers, identifying opportunities to streamline advertising along shipping routes.
 - Implemented clean and efficient Python code for weighting, recoding, appending, and other data management tasks, setting a robust foundation for an analysis pipeline at scale and resulting in a 50% reduction in data processing time.
 
-#### Education
+### Education
 
 **Loyola University Chicago**, M.A. in Political Science, 3.80 GPA _(August 2020 - May 2022)_
 
 **Program coursework:** applied statistical methods in social and behavioral sciences, research design, causal frameworks, program evaluation, quantitative and qualitiative research in political behavior and international relations; Stata, R
 
-#### Professional and Developer Certfications: 
+### Professional and Developer Certfications: 
 
 Data Science and Machine Learning: [_Issued by **Codecademy** on April 1, 2024_](https://www.codecademy.com/profiles/Zach_Holloway/certificates/8e9e59de3f924b33ad2371faf667129b)
 
