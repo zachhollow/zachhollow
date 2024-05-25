@@ -6,7 +6,7 @@ Thank you for visiting my GitHub profile!
 - 🌱 I’m learning ASP.Net Core
 - 🤝 I’m looking to collaborate on full-stack projects! My experience is mostly back-end
 - 📫 How to reach me: zholloway10@outlook.com
-- ⚡ Fun fact: I'm a local River Ranger
+- ⚡ Fun fact: I'm a local River Ranger!
 
 ## Resume
 
