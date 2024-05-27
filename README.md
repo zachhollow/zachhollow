@@ -12,7 +12,7 @@ Thank you for visiting my GitHub profile!
 
 ### Zach Holloway &nbsp; [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">](https://linkedin.com/in/zach-holloway-a180841a3/)
 
-Results-driven data professional with 2 years of experience in statistical analysis, behavioral science, and market research. Adept at leveraging research frameworks, advanced data science, and machine learning tools and methods to deliver actionable insights. 
+Results-driven data professional with 2+ years of experience in statistical analysis, behavioral science, and market research. Proficient in leveraging research methodologies and data science/machine learning tools and methods to deliver actionable insights. 
 
 ### Work Experience
 
