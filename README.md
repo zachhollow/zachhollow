@@ -32,10 +32,6 @@ _June 2022 – Present_
 
 **Program coursework:** applied statistical methods in social and behavioral sciences, research design, causal frameworks, program evaluation, quantitative and qualitiative research in political behavior and international relations; Stata, R
 
-### Professional and Developer Certfications: 
-
-Data Science and Machine Learning: [_Issued by **Codecademy** on April 1, 2024_](https://www.codecademy.com/profiles/Zach_Holloway/certificates/8e9e59de3f924b33ad2371faf667129b)
-
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
