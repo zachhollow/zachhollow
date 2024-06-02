@@ -24,7 +24,7 @@ _June 2022 – Present_
 - Managed and updated a comprehensive macro datasheet in Excel incorporating VBA scripts for interactive sorting of time-series data.
 - Developed data visualizations and ad hoc regression and classification models to identify trends and causal relationships in audience behavior, optimizing targeting strategies for client advertising campaigns.
 - Applied geolocation methods and clustering algorithms to geographical data of retail consumers and policymakers, identifying opportunities to streamline advertising along shipping routes.
-- Implemented clean and efficient Python code for weighting, recoding, appending, and other data management tasks, setting a robust foundation for an analysis pipeline at scale and resulting in a 50% reduction in data processing time.
+- Implemented clean and efficient Python code for weighting, recoding, appending, and other data management tasks, setting a robust foundation for an analysis pipeline at scale and resulting in a 50% reduction in data processing time for KPI metrics.
 
 ### Education
 
