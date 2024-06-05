@@ -47,13 +47,6 @@ _August 2020 - May 2022_
 
 ### Projects 
 
-**Advanced GIS Applications**, School of Environmental Sustainability, Loyola University Chicago 
-
-As part of coursework for a graduate certificate in Geographic Information Systems, I produced the following using QGIS:
--  A graduated map of the 2020 General Election results (Key Concepts: data cleaning, quality control, table operations)
--  A bathymetric map of Lake Ontario (Key Concepts: spatial modeling, raster algebra, Digital Elevation Model (DEM))
--  A map showing the area of tree canopies in a Chicagoland neighborhood (Key Concepts: image analysis)
-
 **Long Short-Term Model (LSTM) for Stock Price Prediction**
 
 GitHub: https://github.com/zachhollow/LSTM/blob/main/LSTM-past.ipynb
@@ -61,7 +54,14 @@ GitHub: https://github.com/zachhollow/LSTM/blob/main/LSTM-past.ipynb
 - Implemented feature engineering to create sequences for LSTM training.
 - Trained the model with historical data for Apple (AAPL) over 20 years.
 - Evaluated model performance using RMSE and MAPE metrics.
-  
+
+**Advanced GIS Applications**, School of Environmental Sustainability, Loyola University Chicago 
+
+As part of coursework for a graduate certificate in Geographic Information Systems, I produced the following using QGIS:
+-  A graduated map of the 2020 General Election results (Key Concepts: data cleaning, quality control, table operations)
+-  A bathymetric map of Lake Ontario (Key Concepts: spatial modeling, raster algebra, Digital Elevation Model (DEM))
+-  A map showing the area of tree canopies in a Chicagoland neighborhood (Key Concepts: image analysis)
+
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
