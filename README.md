@@ -71,7 +71,6 @@ As part of coursework for a graduate certificate in Geographic Information Syste
 -  A bathymetric map of Lake Ontario (spatial modeling, raster algebra, Digital Elevation Model (DEM))
 -  A map showing the area of tree canopies in a Chicagoland neighborhood (image analysis)
 
-
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
