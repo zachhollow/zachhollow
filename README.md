@@ -63,7 +63,7 @@ GitHub: https://github.com/zachhollow/open-ai-assistant/blob/main/demo_notebooks
 - Generates crosstabs using SPSS survey data
 - Saves data and analysis to a local file
 
-**Advanced GIS Applications**, School of Environmental Sustainability, Loyola University Chicago 
+**Advanced GIS Applications**
 
 As part of coursework for a graduate certificate in Geographic Information Systems, I produced the following using QGIS:
 -  A graduated map of the 2020 General Election results (Key Concepts: data cleaning, quality control, table operations)
