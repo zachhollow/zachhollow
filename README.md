@@ -50,10 +50,18 @@ _August 2020 - May 2022_
 **Long Short-Term Model (LSTM) for Stock Price Prediction**
 
 GitHub: https://github.com/zachhollow/LSTM/blob/main/LSTM-past.ipynb
-- Developed an LSTM model using to predict stock prices using Alpaca API for data retrieval, pandas, NumPy, and TensorFlow/Keras.
-- Implemented feature engineering to create sequences for LSTM training.
+- Used Alpaca API for data retrieval, along with skikit-learn, pandas, NumPy, and TensorFlow/Keras.
+- Preprossed data and implemented feature engineering to create sequences for LSTM training.
 - Trained the model with historical data for Apple (AAPL) over 20 years.
 - Evaluated model performance using RMSE and MAPE metrics.
+
+**GPT-4 Assistant using the OpenAI Python SDK**
+
+GitHub: https://github.com/zachhollow/open-ai-assistant/blob/main/demo_notebooks/crosstab-generation.ipynb
+- Makes API requests to create GPT-4 assistants and threads using streaming
+- Uploads and retrieves files from OpenAI API using a file ID
+- Generates crosstabs using SPSS survey data
+- Saves data and analysis to a local file
 
 **Advanced GIS Applications**, School of Environmental Sustainability, Loyola University Chicago 
 
@@ -61,6 +69,8 @@ As part of coursework for a graduate certificate in Geographic Information Syste
 -  A graduated map of the 2020 General Election results (Key Concepts: data cleaning, quality control, table operations)
 -  A bathymetric map of Lake Ontario (Key Concepts: spatial modeling, raster algebra, Digital Elevation Model (DEM))
 -  A map showing the area of tree canopies in a Chicagoland neighborhood (Key Concepts: image analysis)
+
+
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
