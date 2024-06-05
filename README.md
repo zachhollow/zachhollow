@@ -41,8 +41,9 @@ _August 2021 – April 2022_
 
 ### Education
 
-**Loyola University Chicago**, M.A. in Political Science, 3.80 GPA 
-_August 2020 - May 2022_
+**Loyola University Chicago**, M.A. in Political Science, 3.80 GPA                                     
+_August 2020 - May 2022_                                                      
+
 **Program coursework:** applied statistical methods in social and behavioral sciences, research design, causal frameworks, program evaluation, quantitative and qualitiative research in political behavior and international relations; Stata, R
 
 ### Projects 
@@ -66,10 +67,9 @@ GitHub: https://github.com/zachhollow/open-ai-assistant/blob/main/demo_notebooks
 **Advanced GIS Applications**
 
 As part of coursework for a graduate certificate in Geographic Information Systems, I produced the following using QGIS:
--  A graduated map of the 2020 General Election results (Key Concepts: data cleaning, quality control, table operations)
--  A bathymetric map of Lake Ontario (Key Concepts: spatial modeling, raster algebra, Digital Elevation Model (DEM))
--  A map showing the area of tree canopies in a Chicagoland neighborhood (Key Concepts: image analysis)
-
+-  A graduated map of the 2020 General Election results (data cleaning, quality control, table operations)
+-  A bathymetric map of Lake Ontario (spatial modeling, raster algebra, Digital Elevation Model (DEM))
+-  A map showing the area of tree canopies in a Chicagoland neighborhood (image analysis)
 
 
 <!--
