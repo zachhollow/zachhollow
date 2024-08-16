@@ -2,11 +2,11 @@
 
 Thank you for visiting my GitHub profile! 
 
-- 🔭 I’m currently working on a landing web page for a lawyer and my first full-stack web app using RSS feeds and OpenAI API
+- 🔭 I’m currently working on a landing web page for a lawyer and a full-stack web app using RSS feeds
 - 🌱 I’m learning ASP.Net Core
-- 🤝 I’m looking to collaborate on full-stack projects! My experience is mostly back-end
+- 🤝 I’m looking to collaborate on full-stack projects. My experience is mostly back-end
 - 📫 How to reach me: zholloway10@outlook.com
-- ⚡ Fun fact: I'm a local River Ranger!
+- ⚡ Fun fact: I'm a local River Ranger
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
