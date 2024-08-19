@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile! 
 
-- 🔭 I’m currently working on a landing web page for a lawyer and a full-stack web app using RSS feeds.
+- 🔭 I’m currently finalizing a landing web page for a lawyer and in the process of creating a full-stack web app using RSS feeds.
 - 🌱 I’m learning ASP.Net Core and studying for the Azure Developer Associate certification.
 - 🤝 I’m looking to collaborate on full-stack projects. My experience is mostly back-end and general programming in C# and Python.
 - 📫 How to reach me: zholloway10@outlook.com
