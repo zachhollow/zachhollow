@@ -4,7 +4,7 @@ Thank you for visiting my GitHub profile!
 
 - 🔭 I’m currently finalizing a landing web page for a lawyer and in the process of creating a full-stack web app using RSS feeds.
 - 🌱 I’m learning ASP.NET Core and studying for the Azure Developer Associate certification.
-- 🤝 I’m looking to collaborate on full-stack projects. I'm comfortable working on Node.js, .NET, or Flask/Django applications. 
+- 🤝 I’m looking to collaborate on full-stack projects. I'm comfortable working on Node.js, ASP.NET Core, or Flask/Django applications. 
 - 📫 How to reach me: zholloway10@outlook.com
 
 <!--
