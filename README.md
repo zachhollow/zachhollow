@@ -4,7 +4,7 @@ Thank you for visiting my GitHub profile!
 
 - 🔭 I’m currently finalizing a landing web page for a lawyer and in the process of creating a full-stack web app using RSS feeds
 - 🌱 I’m learning ASP.NET Core and studying for the Azure Developer Associate certification
-- 🤝 I’m looking to collaborate on full-stack projects. I'm comfortable working on ASP.NET Core or most Javascript frameworks, including React, React-Redux, and Alpine.js
+- 🤝 I’m looking to collaborate on full-stack projects. I'm comfortable working on ASP.NET Core or Javascript frameworks, including Next.js, React, React-Redux, and Alpine.js
 - 📫 How to reach me: zholloway10@outlook.com
 
 <!--
