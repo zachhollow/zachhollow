@@ -5,7 +5,7 @@ Thank you for visiting my GitHub profile!
 I primarily write in Python (data analysis, data science), C# (ASP.NET Core), and Go.
 
 - 🔭 I’m currently finalizing a full-stack web app using RSS feeds
-- 🌱 I’m learning ASP.NET Core and studying for the Azure Developer Associate certification
+- 🌱 I’m studying for the Azure Developer Associate certification
 - 🤝 I’m looking to collaborate on full-stack projects
 - 📫 How to reach me: zholloway10@outlook.com
 
