@@ -1,6 +1,11 @@
 ## Hello! 👋
 
-Thank you for visiting my GitHub profile! I primarily write in Python (data analysis, data science), C# (ASP.NET Core), and Go.
+Thank you for visiting my GitHub profile! 
+
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-3.x-blue.svg)](https://www.microsoft.com/en-us/dotnet/csharp/) 
+[![Go](https://img.shields.io/badge/go-1.x-blue.svg)](https://golang.org/)
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30">
 
 - 🔭 I’m currently finalizing a full-stack web app using RSS feeds
 - 🌱 I’m studying for the Azure Developer Associate certification
