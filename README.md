@@ -20,7 +20,7 @@ Front-End Frameworks:
 
 **Looking to collaborate on**: Full-stack projects 
 
- **How to reach me**: zholloway10@outlook.com 📫
+ **How to reach me**: zholloway10@outlook.com 
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
