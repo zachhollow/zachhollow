@@ -8,10 +8,12 @@ Thank you for visiting my GitHub profile!
 [![C#](https://img.shields.io/badge/C%23-3.x-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ## Front-End Frameworks
-
+<span>Angular  </span>
 <a href="https://angular.io/">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30">
 </a>
+
+<span>Svelte/SvelteKit  </span>
 <a href="https://svelte.dev/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/340px-Svelte_Logo.svg.png" alt="Svelte Logo" width="30" height="30">
 </a>
