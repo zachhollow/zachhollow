@@ -14,9 +14,7 @@ Front-End Frameworks:
 
 ---
 
-**Currently working on**: Finalizing a full-stack web app using RSS feeds 
-
-**Learning**: Studying for the Azure Developer Associate certification 
+**Learning**: Currently studying for the Azure Developer Associate certification 
 
 **Looking to collaborate on**: Full-stack projects 
 
