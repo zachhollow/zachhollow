@@ -21,7 +21,7 @@ Thank you for visiting my GitHub profile!
 ## Learning
 I'm currently studying for the Azure Developer Associate certification and learning Go.
 
-## I'm looking to collaborate on:
+## I'm looking to collaborate on
 Front-end, back-end, or full-stack! Especially if it involves microservices.
 
 ## How to reach me
