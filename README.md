@@ -17,10 +17,10 @@ Thank you for visiting my GitHub profile!
 </a>
 
 ## Learning
-Currently studying for the Azure Developer Associate certification and learning Go
+I'm currently studying for the Azure Developer Associate certification and learning Go.
 
-## Looking to collaborate on
-Full-stack projects 
+## I'm looking to collaborate on:
+Front-end, back-end, or full-stack! Especially if it involves microservices.
 
 ## How to reach me
 📧 [zholloway10@outlook.com](mailto:zholloway10@outlook.com)
