@@ -5,7 +5,7 @@ Thank you for visiting my GitHub profile!
 ## Server-Side Languages
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-3.x-blue.svg)](https://www.microsoft.com/en-us/dotnet/csharp/) 
+[![C#](https://img.shields.io/badge/C%23-3.x-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Go](https://img.shields.io/badge/go-1.x-blue.svg)](https://golang.org/)
 
 ## Front-End Frameworks
