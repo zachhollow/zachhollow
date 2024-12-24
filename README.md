@@ -6,7 +6,6 @@ Thank you for visiting my GitHub profile!
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-3.x-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Go](https://img.shields.io/badge/go-1.x-blue.svg)](https://golang.org/)
 
 ## Front-End Frameworks
 
@@ -18,7 +17,7 @@ Thank you for visiting my GitHub profile!
 </a>
 
 ## Learning
-Currently studying for the Azure Developer Associate certification 
+Currently studying for the Azure Developer Associate certification and learning Go
 
 ## Looking to collaborate on
 Full-stack projects 
