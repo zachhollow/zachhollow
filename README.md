@@ -23,7 +23,11 @@ Front-end, back-end, or full-stack web sites or apps!
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
+Around 2012, I stumbled on command prompt, quickly realizing that it was a coding tool, albeit mysterious and cryptic. My middle school's computer lab did not have password protected computers, in addition to a public wifi network, and after a few Google searches on how to shut down computers using cmd, I was able to shut down not only my own but any consenting friend's computer. , but any 
+
+I learned R in college while learning econometrics and data analysis for political science. A professor of mine mentioned Python and Jupyter Lab as an alternative, and sooner or later became a bit obsessed with Python for data analytics. One day, before my workplace's annual winter holiday party, I made the decision to learn object-oriented programming, web development, simply out of curiousity. 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
