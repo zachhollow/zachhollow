@@ -7,11 +7,8 @@ Thank you for visiting my GitHub profile!
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
 
-## Front-End Frameworks
+## Front-End and Cross-Platform Frameworks
 [![Svelte](https://img.shields.io/badge/Svelte-3.x-orange.svg)](https://svelte.dev/)
-[![Angular](https://img.shields.io/badge/Angular-12.x-red.svg)](https://angular.io/)
-
-## Cross-Platform Framework
 [![Flutter](https://img.shields.io/badge/Flutter-2.x-blue.svg)](https://flutter.dev)
 
 ## About me
