@@ -22,7 +22,7 @@ Thank you for visiting my GitHub profile!
 I'm currently studying for the Azure Developer Associate certification and learning Go.
 
 ## I'm looking to collaborate on
-Front-end, back-end, or full-stack! Especially if it involves microservices.
+Front-end, back-end, or full-stack!
 
 ## How to reach me
 📧 [zholloway10@outlook.com](mailto:zholloway10@outlook.com)
