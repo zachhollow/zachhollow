@@ -5,18 +5,11 @@ Thank you for visiting my GitHub profile!
 ## Server-Side Languages
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-3.x-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
 
 ## Front-End Frameworks
-<span>Angular  </span>
-<a href="https://angular.io/">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30">
-</a>
-
-<span>Svelte/SvelteKit  </span>
-<a href="https://svelte.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/340px-Svelte_Logo.svg.png" alt="Svelte Logo" width="30" height="30">
-</a>
+[![Angular](https://img.shields.io/badge/Angular-12.x-red.svg)](https://angular.io/)
+[![Svelte](https://img.shields.io/badge/Svelte-3.x-orange.svg)](https://svelte.dev/)
 
 ## Learning
 I'm currently studying for the Azure Developer Associate certification and learning Go.
