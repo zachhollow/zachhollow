@@ -12,7 +12,7 @@ Thank you for visiting my GitHub profile!
 [![Svelte](https://img.shields.io/badge/Svelte-3.x-orange.svg)](https://svelte.dev/)
 
 ## Learning
-I'm currently studying for the Azure Developer Associate certification and learning Go.
+I'm currently studying for the Azure Developer Associate certification.
 
 ## I'm looking to collaborate on
 Front-end, back-end, or full-stack!
