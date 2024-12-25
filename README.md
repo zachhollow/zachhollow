@@ -19,7 +19,7 @@ I got my first job as a market research analyst in June 2022. In December 2022, 
 Throughout my journey, I've embraced the evolution of my interests and skills, constantly seeking new challenges and opportunities to grow. So far, I'm grateful for the many programming experiences that have honed my problem-solving abilities, allowing me to tackle complex issues with creativity, and the amazing tech friends that I've made along the way. As I look forward, I'm excited to continue exploring the ever-expanding world of tech.
 
 ### TL;DR
-I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Svelte/SvelteKit, Go, and Azure.
+I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Pythob, Svelte/SvelteKit, Go, and Azure.
 
 ## How to reach me
 zholloway10@outlook.com
