@@ -11,9 +11,6 @@ Thank you for visiting my GitHub profile!
 [![Svelte](https://img.shields.io/badge/Svelte-3.x-orange.svg)](https://svelte.dev/)
 [![Angular](https://img.shields.io/badge/Angular-12.x-red.svg)](https://angular.io/)
 
-### I'm looking to collaborate on:
-Front-end, back-end, or full-stack web sites or apps!
-
 ## About me
 Around 2012, I stumbled on command prompt and soon realized that it was a coding tool, albeit mysterious and cryptic. My middle school's computer lab did not have password-protected computers and had a public WiFi network. So, after a few Google searches on how to shut down computers using cmd.exe, I was able to shut down not only my own but any consenting friend's computer. It felt like magic, but I quickly ran out of simple spells and tricks and found myself engulfed by a myriad of coding documentation and resources. Overwhelmed, I put cmd.exeaway, and throughout high school and college I found myself more interested in books, articles, and academic papers involving anthropology, history, foreign languages, political science, human rights, and international relations. I started learning R in college as part of a course on econometrics and data analysis for political science. A professor of mine raved about Python and Jupyter Lab as alternatives, but I mostly stuck with R for simple tasks such as data visualizations and regression due to familiarity and a discomfort with non-statistical programming languages or software.
 
@@ -24,7 +21,7 @@ Throughout my journey, I've embraced the evolution of my interests and skills, c
 ### TL;DR
 I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning.
 
-### How to reach me:
+## How to reach me
 zholloway10@outlook.com
 
 <!--
