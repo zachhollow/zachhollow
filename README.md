@@ -8,8 +8,8 @@ Thank you for visiting my GitHub profile!
 [![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
 
 ## Front-End Frameworks
-[![Angular](https://img.shields.io/badge/Angular-12.x-red.svg)](https://angular.io/)
 [![Svelte](https://img.shields.io/badge/Svelte-3.x-orange.svg)](https://svelte.dev/)
+[![Angular](https://img.shields.io/badge/Angular-12.x-red.svg)](https://angular.io/)
 
 ## Learning
 I'm currently studying for the Azure Developer Associate certification.
