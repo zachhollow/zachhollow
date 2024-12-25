@@ -15,7 +15,7 @@ Thank you for visiting my GitHub profile!
 I'm currently studying for the Azure Developer Associate certification.
 
 ## I'm looking to collaborate on
-Front-end, back-end, or full-stack!
+Front-end, back-end, or full-stack web apps or sites!
 
 ## How to reach me
 📧 [zholloway10@outlook.com](mailto:zholloway10@outlook.com)
