@@ -13,7 +13,7 @@ Thank you for visiting my GitHub profile!
 ## Back-End Frameworks
 [![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
 [![Gin](https://img.shields.io/badge/Gin-1.x-purple.svg)](https://gin-gonic.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.85.0-brightgreen.svg)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.x-lightgreen.svg)](https://fastapi.tiangolo.com/)
 
 ## ORM Frameworks 
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-darkblue.svg)](https://docs.microsoft.com/en-us/ef/) 
