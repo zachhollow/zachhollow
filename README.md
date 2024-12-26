@@ -33,9 +33,6 @@ In 2024, I wanted a server-side framework outside of Node.js and Express.js and 
 ### TL;DR
 I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Python, Svelte/SvelteKit, Go, .NET, and Azure.
 
-## How to reach me
-zholloway10@outlook.com
-
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
