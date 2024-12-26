@@ -2,6 +2,9 @@
 
 Thank you for visiting my GitHub profile! 
 
+## Front-End Frameworks
+[![Svelte](https://img.shields.io/badge/Svelte-5.x-orange.svg)](https://svelte.dev/)
+
 ## Server-Side Languages
 [![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
@@ -9,9 +12,11 @@ Thank you for visiting my GitHub profile!
 
 ## Back-End Frameworks
 [![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
+[![Gin](https://img.shields.io/badge/Gin-1.x-yellow.svg)](https://gin-gonic.com/)
 
-## Front-End Frameworks
-[![Svelte](https://img.shields.io/badge/Svelte-5.x-orange.svg)](https://svelte.dev/)
+## ORM Frameworks 
+[![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-green.svg)](https://docs.microsoft.com/en-us/ef/) 
+[![Prism](https://img.shields.io/badge/Prism-6.x-purple.svg)](https://prismlibrary.com/)
 
 ## Cross-Platform Frameworks
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
