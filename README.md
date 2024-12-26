@@ -10,7 +10,7 @@ Thank you for visiting my GitHub profile!
 ## Back-End Frameworks
 [![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
 
-## Front-End and Cross-Platform Frameworks
+## Front-End Frameworks
 [![Svelte](https://img.shields.io/badge/Svelte-5.x-orange.svg)](https://svelte.dev/)
 
 ## Cross-Platform Frameworks
