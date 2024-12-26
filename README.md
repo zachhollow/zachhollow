@@ -7,17 +7,17 @@ Thank you for visiting my GitHub profile!
 
 ## Server-Side Languages
 [![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-13.x-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 ## Back-End Frameworks
-[![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
 [![Gin](https://img.shields.io/badge/Gin-1.x-purple.svg)](https://gin-gonic.com/)
+[![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.x-lightgreen.svg)](https://fastapi.tiangolo.com/)
 
 ## ORM Frameworks 
-[![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-darkblue.svg)](https://docs.microsoft.com/en-us/ef/) 
 [![Ent.go](https://img.shields.io/badge/Ent-0.x-black.svg)](https://entgo.io/)
+[![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-darkblue.svg)](https://docs.microsoft.com/en-us/ef/) 
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.x-red.svg)](https://www.sqlalchemy.org/)
 
 ## Cross-Platform Frameworks
