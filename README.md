@@ -18,6 +18,7 @@ Thank you for visiting my GitHub profile!
 ## ORM Frameworks 
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-darkblue.svg)](https://docs.microsoft.com/en-us/ef/) 
 [![Ent.go](https://img.shields.io/badge/Ent-0.x-black.svg)](https://entgo.io/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.x-red.svg)](https://www.sqlalchemy.org/)
 
 ## Cross-Platform Frameworks
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
