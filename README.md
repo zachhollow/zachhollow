@@ -7,17 +7,14 @@ Thank you for visiting my GitHub profile!
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 
 ## Server-Side Languages
-[![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
 [![C#](https://img.shields.io/badge/C%23-13.x-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 ## Back-End Frameworks
-[![Gin](https://img.shields.io/badge/Gin-1.x-purple.svg)](https://gin-gonic.com/)
 [![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.x-lightgreen.svg)](https://fastapi.tiangolo.com/)
 
 ## ORM Frameworks 
-[![Ent.go](https://img.shields.io/badge/Ent-0.x-black.svg)](https://entgo.io/)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-darkblue.svg)](https://docs.microsoft.com/en-us/ef/) 
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.x-red.svg)](https://www.sqlalchemy.org/)
 
@@ -31,20 +28,14 @@ Overwhelmed, I put cmd.exe away, and throughout high school and college I found 
 
 I got my first job as a market research analyst in June 2022. In December 2022, a day before my workplace's annual winter holiday party, I decided to learn Python for data analytics/machine learning and JavaScript for web development. I felt limited with R, a renewed interest in Python, and re-emerging nostalgia from when I first stumbled upon command prompt. I bought an annual subscription to Codecademy in late December 2022, and effectively fell into "tutorial hell" during 2023. 
 
-In 2024, I wanted a server-side framework outside of Node.js and Express.js and I began learning ASP.NET Core with C#. I became comfortable with Razor pages and C#, but through Microsoft .NET documentation and courses, I learned about architectural modularity and microservices. This prompted research in Go, due to its minimalism, strong concurrency, and strength as a microservice, and it is now my "go-to" server-side web development language, alongside Python for scripting, data analytics, and machine learning, and .NET and C# for enterprise-grade back-end microservices.
+In early 2024, I sought a server-side framework beyong Node.js and Express.js, and I began learning ASP.NET Core with C#. I currently use .NET and C# for enterprise-grade back-end microservices, alongside Python for scripting, data analytics, and machine learning.
 
 ### TL;DR
-I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Python, Svelte/SvelteKit, Go, .NET, and Azure.
+I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Python, Svelte/SvelteKit (TypeScript/JavaScript), .NET, and Azure.
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
+[![Gin](https://img.shields.io/badge/Gin-1.x-purple.svg)](https://gin-gonic.com/)
+[![Ent.go](https://img.shields.io/badge/Ent-0.x-black.svg)](https://entgo.io/)
