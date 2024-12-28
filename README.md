@@ -2,8 +2,9 @@
 
 Thank you for visiting my GitHub profile! 
 
-## Front-End Frameworks
+## Front-End Frameworks and Languages
 [![Svelte](https://img.shields.io/badge/Svelte-5.x-orange.svg)](https://svelte.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 
 ## Server-Side Languages
 [![Go](https://img.shields.io/badge/Go-1.x-blue.svg)](https://golang.org/)
