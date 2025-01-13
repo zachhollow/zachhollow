@@ -23,7 +23,7 @@ Thank you for visiting my GitHub profile!
 
 ## About me
 
-I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Python, Svelte/SvelteKit (TypeScript/JavaScript), .NET, and Azure.
+I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Python, Svelte and SvelteKit (TypeScript/JavaScript), .NET, and Azure.
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
