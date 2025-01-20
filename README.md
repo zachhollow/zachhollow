@@ -2,28 +2,23 @@
 
 Thank you for visiting my GitHub profile! 
 
-## Front-End Frameworks and Languages
-[![Svelte](https://img.shields.io/badge/Svelte-5.x-orange.svg)](https://svelte.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
-
-## Server-Side Languages
-[![C#](https://img.shields.io/badge/C%23-13.x-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-
-## Back-End Frameworks
-[![.NET](https://img.shields.io/badge/.NET-9.x-blue.svg)](https://dotnet.microsoft.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.x-lightgreen.svg)](https://fastapi.tiangolo.com/)
-
-## ORM Frameworks 
-[![Entity Framework](https://img.shields.io/badge/Entity_Framework-6.x-darkblue.svg)](https://docs.microsoft.com/en-us/ef/) 
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.x-red.svg)](https://www.sqlalchemy.org/)
-
-## Cross-Platform Frameworks
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
-
 ## About me
 
-I have a background in social sciences and initially learned R. I started learning Python to improve my data skills at work, and my interest eventually evolved into object-oriented programming, web development, and machine learning. I currently use Python, Svelte and SvelteKit (TypeScript/JavaScript), .NET, and Azure.
+I have a background in social sciences and began my programming journey with R. To improve my data analysis skills at work, I transitioned to Python, which sparked a growing interest in machine learning, object-oriented programming, and web development. Over time, I’ve expanded my technical toolkit to include modern web technologies like Svelte and SvelteKit (with TypeScript/JavaScript), FastAPI, .NET, and Azure. 
+
+## Tech Stack
+
+| **Category**              | **Technology**      | **Version** | **Links**                                              |
+|---------------------------|---------------------|-------------|-------------------------------------------------------|
+| **Front-End Frameworks**  | Svelte             | 5.x         | [Svelte](https://svelte.dev/)                        |
+|                           | TypeScript         | 5.x         | [TypeScript](https://www.typescriptlang.org/)        |
+| **Server-Side Languages** | C#                 | 13.x        | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)|
+|                           | Python             | 3.x         | [Python](https://www.python.org/)                   |
+| **Back-End Frameworks**   | .NET               | 9.x         | [.NET](https://dotnet.microsoft.com/)                |
+|                           | FastAPI            | 0.x         | [FastAPI](https://fastapi.tiangolo.com/)             |
+| **ORM Frameworks**        | Entity Framework   | 6.x         | [Entity Framework](https://docs.microsoft.com/en-us/ef/)|
+|                           | SQLAlchemy         | 1.x         | [SQLAlchemy](https://www.sqlalchemy.org/)            |
+| **Cross-Platform**        | Flutter            | 3.x         | [Flutter](https://flutter.dev/)                      |
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
