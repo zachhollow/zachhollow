@@ -4,7 +4,7 @@ Thank you for visiting my GitHub profile!
 
 ## About me
 
-I have a background in social sciences and began my programming journey with R. To improve my data analysis skills at work, I transitioned to Python, which sparked a growing interest in machine learning, object-oriented programming, and web development. Over time, I’ve expanded my technical toolkit to include modern web technologies like Svelte and SvelteKit (with TypeScript/JavaScript), FastAPI, .NET, and Azure. 
+I have a background in social sciences and began my programming journey with R. To improve my data analysis skills at work, I transitioned to Python, which sparked a growing interest in machine learning, object-oriented programming, and web development. Over time, I’ve expanded my technical toolkit to include modern web technologies, such as Svelte and SvelteKit (with TypeScript/JavaScript), FastAPI, .NET, and Azure. 
 
 ## Tech Stack
 
