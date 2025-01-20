@@ -8,17 +8,17 @@ I have a background in social sciences and began my programming journey with R. 
 
 ## Tech Stack
 
-| **Category**              | **Technology**      | **Version** | **Links**                                              |
-|---------------------------|---------------------|-------------|-------------------------------------------------------|
-| **Front-End Frameworks**  | Svelte             | 5.x         | [Svelte](https://svelte.dev/)                        |
-|                           | TypeScript         | 5.x         | [TypeScript](https://www.typescriptlang.org/)        |
-| **Server-Side Languages** | C#                 | 13.x        | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)|
-|                           | Python             | 3.x         | [Python](https://www.python.org/)                   |
-| **Back-End Frameworks**   | .NET               | 9.x         | [.NET](https://dotnet.microsoft.com/)                |
-|                           | FastAPI            | 0.x         | [FastAPI](https://fastapi.tiangolo.com/)             |
-| **ORM Frameworks**        | Entity Framework   | 6.x         | [Entity Framework](https://docs.microsoft.com/en-us/ef/)|
-|                           | SQLAlchemy         | 1.x         | [SQLAlchemy](https://www.sqlalchemy.org/)            |
-| **Cross-Platform**        | Flutter            | 3.x         | [Flutter](https://flutter.dev/)                      |
+| **Category**              | **Technology**      | **Version**                                              |
+|---------------------------|---------------------|-------------------------------------------------------|
+| **Front-End Frameworks**  | Svelte/SvelteKit    | [5.x](https://svelte.dev/)                        |
+|                           | TypeScript          | [5.x](https://www.typescriptlang.org/)        |
+| **Server-Side Languages** | C#                  | [13.x](https://docs.microsoft.com/en-us/dotnet/csharp/)|
+|                           | Python              | [3.x](https://www.python.org/)                   |
+| **Back-End Frameworks**   | .NET                | [9.x](https://dotnet.microsoft.com/)                |
+|                           | FastAPI             | [0.x](https://fastapi.tiangolo.com/)             |
+| **ORM Frameworks**        | Entity Framework    | [6.x](https://docs.microsoft.com/en-us/ef/)|
+|                           | SQLAlchemy          | [1.x](https://www.sqlalchemy.org/)            |
+| **Cross-Platform**        | Flutter             | [3.x](https://flutter.dev/)                      |
 
 <!--
 **zachhollow/zachhollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
