@@ -16,7 +16,7 @@ I have a background in social sciences and began my programming journey with R. 
 |                           | Python              | [3.x](https://www.python.org/)                   |
 | **Back-End Frameworks**   | .NET                | [9.x](https://dotnet.microsoft.com/)                |
 |                           | FastAPI             | [0.x](https://fastapi.tiangolo.com/)             |
-| **ORM Frameworks**        | Entity Framework    | [6.x](https://docs.microsoft.com/en-us/ef/)|
+| **ORM**                   | Entity Framework    | [6.x](https://docs.microsoft.com/en-us/ef/)|
 |                           | SQLAlchemy          | [1.x](https://www.sqlalchemy.org/)            |
 | **Cross-Platform**        | Flutter             | [3.x](https://flutter.dev/)                      |
 
