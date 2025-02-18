@@ -12,8 +12,8 @@ I have a background in social sciences and began my programming journey with R. 
 |---------------------------|---------------------|-------------------------------------------------------|
 | **Front-End Frameworks**  | Svelte/SvelteKit    | [5.x](https://svelte.dev/)                        |
 |                           | TypeScript          | [5.x](https://www.typescriptlang.org/)        |
-| **Server-Side Languages** | C#                  | [13.x](https://docs.microsoft.com/en-us/dotnet/csharp/)|
-|                           | Python              | [3.x](https://www.python.org/)                   |
+| **Server-Side Languages** | Python                 | [3.x](https://www.python.org/)    |
+|                           | C#               | [13.x](https://docs.microsoft.com/en-us/dotnet/csharp/)     |
 | **Back-End Frameworks**   | .NET                | [9.x](https://dotnet.microsoft.com/)                |
 |                           | FastAPI             | [0.x](https://fastapi.tiangolo.com/)             |
 | **ORM**                   | Entity Framework    | [6.x](https://docs.microsoft.com/en-us/ef/)|
